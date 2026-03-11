@@ -96,6 +96,15 @@ deceptive-document-security/
 │
 ├── templates/               # HTML templates
 │
+├── screenshots/             # Project screenshots for README
+│   ├── HomePage.png
+│   ├── RegistrationPage.png
+│   ├── LoginPage.png
+│   ├── FileUploadPage.png
+│   ├── FileDownloadPage.png
+│   ├── OriginalDocument.png
+│   └── FakeDocument.png
+│
 ├── venu/                    # Virtual environment
 │
 ├── App.py                   # Main application entry point
@@ -181,14 +190,26 @@ When incorrect credentials are entered, the system:
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your application here)*
+### 🏠 Home Page
+![Home Page](screenshots/HomePage.png)
 
-- [ ] Registration Page
-- [ ] Admin Approval Panel
-- [ ] User Dashboard
-- [ ] File Upload Page
-- [ ] Fake Login Page
-- [ ] Alert Email
+### 📝 Registration Page
+![Registration Page](screenshots/RegistrationPage.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/LoginPage.png)
+
+### 📤 File Upload Page
+![File Upload Page](screenshots/FileUploadPage.png)
+
+### 📥 File Download Page
+![File Download Page](screenshots/FileDownloadPage.png)
+
+### ✅ Original Document
+![Original Document](screenshots/OriginalDocument.png)
+
+### 🪤 Fake Document
+![Fake Document](screenshots/FakeDocument.png)
 
 ---
 
